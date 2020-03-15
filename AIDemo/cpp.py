@@ -1,3 +1,6 @@
+#https://www.datacamp.com/community/tutorials/networkx-python-graph-tutorial
+#https://www-m9.ma.tum.de/graph-algorithms/directed-chinese-postman/index_en.html
+
 import itertools
 import copy
 import networkx as nx
@@ -41,4 +44,3 @@ plt.figure(figsize=(8, 6))
 nx.draw(g, pos=node_positions, edge_color=edge_colors, node_size=10, node_color='black')
 plt.title('Graph Representation of Sleeping Giant Trail Map', size=15)
 #plt.show()
-

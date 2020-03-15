@@ -1,0 +1,15 @@
+node1,node2,trail,distance,color,estimate
+a,b,ab,6,red,0
+a,d,ad,1,red,0
+b,a,ba,6,red,0
+b,d,bd,2,red,0
+b,e,be,2,red,0
+b,c,bc,5,red,0
+c,b,cb,5,red,0
+c,e,ce,5,red,0
+d,a,da,1,red,0
+d,b,db,2,red,0
+d,e,de,1,red,0
+e,d,ed,1,red,0
+e,b,eb,2,red,0
+e,c,ec,5,red,0
