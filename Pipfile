@@ -7,6 +7,9 @@ verify_ssl = true
 ipykernel = "*"
 
 [packages]
+gym = {extras = ["atari"],version = "*"}
+cmake = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.7"
