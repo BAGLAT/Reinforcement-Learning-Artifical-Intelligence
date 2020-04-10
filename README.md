@@ -23,6 +23,8 @@ There are four possible locations for pick up and drop off, these are the ones m
 
 The agent is rewarded a point of -1 on taking any action, if the agent picks up of drops the passenger off at an incorrect location, it incurs a reward of -10, and finally when the agent drops the passenger off at the correct location it is reward a point of +20. This is to ensure that the agent is able to differentiate between the right and wrong steps.
 A sample run through of the environment can be seen below:
+
+
 ![run through](https://github.com/scrntnstrnglr/AIProject/blob/master/AIDemo/img/frames_sample.gif)
 
 ## Project Setup ##
