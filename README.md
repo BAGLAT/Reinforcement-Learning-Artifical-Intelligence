@@ -2,7 +2,7 @@
 
 The project delves into a comparative study of several state-of-the-art Reinforcement Learning algorithms using the Taxi-v3 environment provided by [OpenAI Gym](https://gym.openai.com/). _OpenAI Gym_ provides an array of gaming and virtual environments with pre-defined state spaces and action spaces. This makes for an ideal candidate for developers to explore their own AI algorithms or even implement state-of-the-art Reinforcement Learning algorithms. the Taxi-v3 environment has been selected for our project, because it provides a finite number of state spaces with and ideal number of action spaces. The environment also employs certain sub-missions such as pickups and drop-offs which is beneficial while performing comparative algorithm analysis as it is always desirable to have a certain level of complexity within the problem.
 The algorithms selected are as follows:
-* Random Search - to create a baseline
+* Random Search - to establish a baseline
 * Q-Learning
 * SARSA (State Action Reward State Action)
 * Expected SARSA
